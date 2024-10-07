@@ -1,9 +1,1 @@
-# HelloWorld
-#include <iostream>
-
-int main()
-{
-	cout << "Hello, World" << endl;
-	return 0;
-
-}
+# A description of a basic Hello World program 
